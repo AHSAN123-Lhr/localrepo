@@ -1,0 +1,10 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 0dd6cd1..8904afa 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,2 +1,2 @@[m
+ <h1>Hi there i am wriring a code</h1>[m
+[31m-<h2>this is  basically feature 1 final tesging (butt0)</h[m
+\ No newline at end of file[m
+[32m+[m[32m<h2>this is  basically feature 1 final tesging(dropdown) </h[m
+\ No newline at end of file[m
